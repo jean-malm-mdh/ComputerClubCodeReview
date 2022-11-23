@@ -5,6 +5,7 @@ This template project shall be used to upload a project that is to be code revie
 1) Clone the repository to your local workspace
 2) Add your project to the repository. 
 3) Push it to the remote project in the github classroom repository. 
+* A pull request should automatically be created, allowing others to comment on the code.
 
 # Utilities
 To reduce the uploading of unnecessary files, please create a .gitignore file for your project. Typical things to ignore are cache and build directories.
