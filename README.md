@@ -10,3 +10,4 @@ This template project shall be used to upload a project that is to be code revie
 To reduce the uploading of unnecessary files, please create a .gitignore file for your project. Typical things to ignore are cache and build directories.
 
 If you wish to demonstrate the project live, there will be a Makefile in the template project with instructions on how to edit it to smooth the build and run process of the project.
+* The makefile comes prepared with template code for the `build`, `run` and `clean` commands. Please add the necessary commands to perform those actions.
